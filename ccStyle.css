@@ -43,6 +43,8 @@ section.mainContent{
 }
 .innerContent{
 	background-color: #FFFFFF;
+	border: 1px #FFFFFF solid;
+	border-radius: .2em;
 }
 #hello {
 	display:block;
